@@ -1,0 +1,5 @@
+a{left: 25em;top: 2em;position: relative;margin: 0 30px;font-family: sans-serif;text-decoration: none;color:rgb(108, 103, 103);font-weight: bold;}
+div{position: relative;top: 7em;left: 5em;font-size: 1.5em;font-family: sans-serif;color: rgb(108, 103, 103);}
+img{width: 4em;border-radius: 20px;margin-left: 1em;}
+body{background: url(Screenshot_20230323-182702.jpg) no-repeat;
+background-size: cover;}

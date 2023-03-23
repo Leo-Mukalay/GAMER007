@@ -1,0 +1,8 @@
+a{left: 25em;top: 2em;position: relative;margin: 0 30px;font-family: sans-serif;text-decoration: none;color:rgb(108, 103, 103);font-weight: bold;}
+div.classement{position: relative;top: 5em;box-shadow: 0px 10px 10px 0px gray;height: 46%;width: 75%;}
+button{width: 100%;height: 4em;font-family: comic sans ms;box-shadow: 0px 10px 10px 5px gray;font-weight: bold;-webkit-transition: all .5s;-o-transition: all .5s;transition: all .5s;background-color:teal;color: black;font-size: 0.99em;}
+.result{width: 100%;height: 2em;padding-top: 1.5em;display: none;font-family: sans-serif;border-radius: 20px;font-weight: bold;color:crimson;}
+h2{font-weight: bold;color: gray;}
+img{width: 4em;border-radius: 20px;margin-left: 1em;}
+body{background: url(Screenshot_20230323-182702.jpg) no-repeat;
+    background-size: cover;}
